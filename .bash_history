@@ -92,3 +92,17 @@ git init
 git add .
 git commit -m "Commit"
 git push -u origin master
+git status
+git version
+git init
+cd ..
+cd sgrrk123
+ls
+git /home/sgrrk123/
+git /home/
+git /home
+cd /home/sgrrk123/
+ls
+cd /home
+ls
+clear
